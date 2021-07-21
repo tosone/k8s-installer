@@ -1,0 +1,8 @@
+kubeadm
+kubectl
+kubelet
+
+.DS_Store
+
+*.tgz
+*.tar.gz
